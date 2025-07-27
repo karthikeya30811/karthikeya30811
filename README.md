@@ -40,7 +40,7 @@
   <a href="mailto:karthikeyavaddemail@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="35" alt="Gmail"/>
   </a>
-  <a href="https://github.com/KarthikeyaVadde" target="_blank">
+  <a href="https://github.com/Karthikeya30811" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/50/github.png" width="35" alt="GitHub"/>
   </a>
 </p>
