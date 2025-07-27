@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Vadde</h1>
-<h3 align="center">A Full Stack Developer | AWS Certified | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">A Full Stack Developer | AWS Certified | AI Enthusiast | Problem Solver | Google Certified</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="developer boy gif">
@@ -67,7 +67,8 @@
 
 ### 🏆 Achievements & Highlights
 
-- ✅ AWS Certified Solutions Architect – Associate  
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Google Certified ACE
 - 📘 IEEE Research Publication – Leaf Disease Detection  
 - 🧠 Built Chrome Extension & AI Sentiment Models  
 
