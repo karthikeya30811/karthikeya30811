@@ -50,7 +50,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,python,mongodb,postgres,aws,git,docker,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,python,mongodb,postgres,aws,git,html,css,js" />
 </p>
 
 ---
@@ -71,7 +71,6 @@
 - ✅ Google Certified ACE
 - 📘 IEEE Research Publication – Leaf Disease Detection  
 - 🧠 Built Chrome Extension & AI Sentiment Models  
-
 - 🎯 Club Leader & Event Organizer at University  
 
 ---
