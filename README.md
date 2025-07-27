@@ -70,7 +70,7 @@
 - ✅ AWS Certified Solutions Architect – Associate  
 - 📘 IEEE Research Publication – Leaf Disease Detection  
 - 🧠 Built Chrome Extension & AI Sentiment Models  
-- 🏛️ Smart City 3D Explorer with React Three Fiber  
+
 - 🎯 Club Leader & Event Organizer at University  
 
 ---
