@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer | AWS Certified | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fc/81/58/fc8158595e5d71f4e8dbbdee62c69ff9.gif" width="300" alt="Developer Boy GIF">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="developer boy gif">
 </p>
 
 ---
@@ -76,4 +76,3 @@
 ---
 
 > 🧠 *“Think deeply, build wisely, and code smart.”*
-
