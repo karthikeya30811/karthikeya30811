@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Vadde</h1>
-<h3 align="center">A Full Stack Developer | AI & Cloud Enthusiast | AWS Certified</h3>
+<h3 align="center">A Full Stack Developer | AWS Certified | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-on-laptop-6779113-5605115.png" alt="coder" width="300"/>
+  <img src="https://i.pinimg.com/originals/fc/81/58/fc8158595e5d71f4e8dbbdee62c69ff9.gif" width="300" alt="Developer Boy GIF">
 </p>
 
 ---
@@ -10,46 +10,47 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:  
-  `Real-time Collaborative Kanban Board`,  
-  `Chrome Extension to Summarize Product Reviews`,  
-  `Stock Market Prediction using Sentiment Analysis`
+  `⚡ Real-time Kanban Board`,  
+  `🧠 Chrome Extension for Review Summarization`,  
+  `📈 Stock Market Prediction using Sentiment Analysis`
 
-- 🌱 I’m currently learning:  
-  `Socket.IO`, `Gemini API`, `Advanced React Animations`, and `AWS Lambda`
+- 🌱 Currently learning:  
+  `Socket.IO`, `Gemini API`, `AI Agents`, `Cloud Deployments`
 
-- ✍️ I regularly write articles on tech and development
+- 📚 Completed:  
+  `Leaf Disease Detection using U-Net`,  
+  `E-commerce Price Comparison App`,  
+  `Movie Management System`,  
+  `Interactive 3D Smart City with React Three Fiber`
 
-- 💬 Ask me about:  
-  React, Node.js, Spring Boot, MongoDB, AWS, and DSA
+- 🧠 Passionate about:  
+  `React`, `Spring Boot`, `AWS`, `MongoDB`, `Data Structures`
 
-- 📫 Reach me:  
+- 📫 Reach me at:  
   **karthikeyavaddemail@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/karthikeya-vadde/" target="_blank"><img alt="LinkedIn" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="mailto:karthikeyavaddemail@gmail.com" target="_blank"><img alt="Gmail" width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
-  <a href="#" target="_blank"><img alt="Portfolio" width="30" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"></a>
+  <a href="https://www.linkedin.com/in/karthikeya-vadde/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:karthikeyavaddemail@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/KarthikeyaVadde" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/50/github.png" width="35" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,spring,python,mongodb,postgres,aws,git,docker,html,css,js" />
 </p>
 
 ---
@@ -64,14 +65,15 @@
 
 ---
 
-### 🚀 Achievements & Highlights
+### 🏆 Achievements & Highlights
 
-- 🏅 AWS Certified Solutions Architect – Associate
-- 🎓 IEEE Research Publication – Leaf Disease Detection using U-Net
-- 🧠 Built Smart City 3D Explorer with React Three Fiber
-- ✨ Club Leader & Technical Organizer at University Events
+- ✅ AWS Certified Solutions Architect – Associate  
+- 📘 IEEE Research Publication – Leaf Disease Detection  
+- 🧠 Built Chrome Extension & AI Sentiment Models  
+- 🏛️ Smart City 3D Explorer with React Three Fiber  
+- 🎯 Club Leader & Event Organizer at University  
 
 ---
 
-> 📌 *“Always curious, constantly coding, and building smarter things.”*
+> 🧠 *“Think deeply, build wisely, and code smart.”*
 
