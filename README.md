@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on:  
   `⚡ Real-time Kanban Board`,  
   `🧠 Chrome Extension for Review Summarization`,  
-  `📈 Stock Market Prediction using Sentiment Analysis`
+ 
 
 - 🌱 Currently learning:  
   `Socket.IO`, `Gemini API`, `AI Agents`, `Cloud Deployments`
@@ -21,7 +21,7 @@
   `Leaf Disease Detection using U-Net`,  
   `E-commerce Price Comparison App`,  
   `Movie Management System`,  
-  `Interactive 3D Smart City with React Three Fiber`
+  `📈 Stock Market Prediction using Sentiment Analysis`
 
 - 🧠 Passionate about:  
   `React`, `Spring Boot`, `AWS`, `MongoDB`, `Data Structures`
