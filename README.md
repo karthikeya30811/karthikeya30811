@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on:  
   `⚡ Real-time Kanban Board`,  
-  `🧠 Chrome Extension for Review Summarization`,  
+  `🧠 Chrome Extension for Review Summarization`  
  
 
 - 🌱 Currently learning:  
