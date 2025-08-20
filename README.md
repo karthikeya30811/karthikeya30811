@@ -20,7 +20,7 @@
   `Leaf Disease Detection using U-Net`,  
   `E-commerce Price Comparison App`,  
   `Movie Management System`,  
-  `📈 Stock Market Prediction using Sentiment Analysis`
+  `📈 Stock Market Prediction using Sentiment Analysis`,
   `🤖 AI- Kart27 Notes Summarizer`
 
 - 🧠 Passionate about:  
