@@ -9,8 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on:  
-  `⚡ Real-time Kanban Board`,  
+- 🔭 I’m currently working on:    
   `🧠 Chrome Extension for Review Summarization`  
  
 
@@ -22,6 +21,7 @@
   `E-commerce Price Comparison App`,  
   `Movie Management System`,  
   `📈 Stock Market Prediction using Sentiment Analysis`
+  `🤖 AI- Kart27 Notes Summarizer`
 
 - 🧠 Passionate about:  
   `React`, `Spring Boot`, `AWS`, `MongoDB`, `Data Structures`
