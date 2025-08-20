@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:    
-  `🧠 Chrome Extension for Review Summarization`  
+  `🧠 AI DOCU SEARCH (RAG CHATBOT) `  
  
 
 - 🌱 Currently learning:  
